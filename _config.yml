@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6374866
+  lightness: 0.4205156
+  brandStrength: 0
+  brandColors:
+    - '#414042'
+    - '#DECFC7'
+    - '#888888'
+    - '#5253AC'
+    - '#CE5D70'
+  rhythmicContrast: 0.6664876
+typography_spectrum: 0.2142857
+name: ToriReid
